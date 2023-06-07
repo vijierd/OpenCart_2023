@@ -1,0 +1,195 @@
+10:25:43.477 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+10:29:37.785 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+10:29:49.047 [main] WARN  testCases.TC_002_LoginTest - Login Failed..
+10:29:49.047 [main] ERROR testCases.TC_002_LoginTest - Test failed..
+16:05:19.158 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:05:20.187 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is invalid and Target page is True
+16:05:20.187 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:05:20.492 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:05:30.710 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:05:40.868 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:05:51.050 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:13:02.781 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:13:03.896 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is invalid and Target page is True
+16:13:03.897 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:13:04.232 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:13:14.736 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+16:13:14.736 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:13:14.736 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:13:14.736 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:13:25.326 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+16:13:25.326 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:13:25.326 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:13:25.342 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:13:35.922 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+16:13:35.922 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:13:35.922 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:13:35.938 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:13:36.610 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is valid and Target page is true
+16:13:36.611 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:13:36.883 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:14:57.910 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:14:58.735 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is valid and Target page is true
+16:14:58.735 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:14:59.081 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:14:59.098 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:15:09.631 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+16:15:09.631 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:15:09.631 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:15:09.631 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:15:20.196 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+16:15:20.196 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:15:20.196 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:15:20.212 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:15:30.770 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+16:15:30.770 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:15:30.770 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:15:30.786 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:15:31.456 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is valid and Target page is true
+16:15:31.456 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:15:31.700 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:18:56.415 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:18:57.295 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is valid and Target page is true
+16:18:57.295 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:18:57.555 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:18:57.572 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:21:48.671 [main] INFO  testCases.TC_001_AccountRegistrationTest - *staring TC_001_AccountRegistrationTest ******
+16:21:48.685 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on myaccount link
+16:21:48.743 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on registration link
+16:21:49.150 [main] INFO  testCases.TC_001_AccountRegistrationTest - Proving customer details
+16:21:49.537 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on continue
+16:21:49.856 [main] INFO  testCases.TC_001_AccountRegistrationTest - verifying customer registration
+16:21:50.052 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed..
+16:21:50.057 [main] INFO  testCases.TC_001_AccountRegistrationTest - **finished TC_001_AccountRegistrationTest **
+16:22:10.646 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+16:22:11.387 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+16:22:31.019 [main] INFO  testCases.TC_001_AccountRegistrationTest - *staring TC_001_AccountRegistrationTest ******
+16:22:31.036 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on myaccount link
+16:22:31.100 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on registration link
+16:22:31.462 [main] INFO  testCases.TC_001_AccountRegistrationTest - Proving customer details
+16:22:31.841 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on continue
+16:22:32.499 [main] INFO  testCases.TC_001_AccountRegistrationTest - verifying customer registration
+16:22:32.499 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed..
+16:22:32.501 [main] INFO  testCases.TC_001_AccountRegistrationTest - **finished TC_001_AccountRegistrationTest **
+16:22:35.988 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+16:22:38.029 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+16:22:42.168 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:22:43.248 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is valid and Target page is true
+16:22:43.248 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:22:43.514 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:22:43.518 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:22:54.080 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+16:22:54.080 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:22:54.080 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:22:54.080 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:23:04.671 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+16:23:04.671 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:23:04.671 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:23:04.687 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:23:15.304 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+16:23:15.304 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:23:15.304 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+16:23:15.320 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+16:23:15.991 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is valid and Target page is true
+16:23:15.991 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+16:23:16.226 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:01:49.028 [main] INFO  testCases.TC_001_AccountRegistrationTest - *staring TC_001_AccountRegistrationTest ******
+17:01:49.047 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on myaccount link
+17:01:49.108 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on registration link
+17:01:49.604 [main] INFO  testCases.TC_001_AccountRegistrationTest - Proving customer details
+17:01:49.985 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on continue
+17:01:51.159 [main] INFO  testCases.TC_001_AccountRegistrationTest - verifying customer registration
+17:01:51.159 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed..
+17:01:51.160 [main] INFO  testCases.TC_001_AccountRegistrationTest - **finished TC_001_AccountRegistrationTest **
+17:01:55.458 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+17:01:57.664 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+17:02:02.626 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:02:03.513 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is valid and Target page is true
+17:02:03.514 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:02:03.724 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:02:03.725 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:02:14.251 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+17:02:14.251 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:02:14.251 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:02:14.251 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:02:24.788 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+17:02:24.788 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:02:24.788 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:02:24.788 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:02:35.459 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+17:02:35.459 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:02:35.459 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:02:35.459 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:02:36.106 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is valid and Target page is true
+17:02:36.106 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:02:36.342 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:03:07.690 [main] INFO  testCases.TC_001_AccountRegistrationTest - *staring TC_001_AccountRegistrationTest ******
+17:03:07.707 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on myaccount link
+17:03:07.830 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on registration link
+17:03:09.363 [main] INFO  testCases.TC_001_AccountRegistrationTest - Proving customer details
+17:03:09.732 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on continue
+17:03:10.054 [main] INFO  testCases.TC_001_AccountRegistrationTest - verifying customer registration
+17:03:10.054 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed..
+17:03:10.056 [main] INFO  testCases.TC_001_AccountRegistrationTest - **finished TC_001_AccountRegistrationTest **
+17:03:14.047 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+17:03:14.878 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+17:03:20.784 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:03:21.558 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is valid and Target page is true
+17:03:21.558 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:03:22.030 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:03:22.033 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:03:32.599 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+17:03:32.599 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:03:32.599 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:03:32.599 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:03:43.240 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+17:03:43.240 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:03:43.240 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:03:43.240 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:03:53.830 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+17:03:53.830 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:03:53.830 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:03:53.830 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:03:54.530 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is valid and Target page is true
+17:03:54.530 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:03:54.818 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:33:21.407 [main] INFO  testCases.TC_001_AccountRegistrationTest - *staring TC_001_AccountRegistrationTest ******
+17:33:21.424 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on myaccount link
+17:33:21.497 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on registration link
+17:33:22.719 [main] INFO  testCases.TC_001_AccountRegistrationTest - Proving customer details
+17:33:23.138 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on continue
+17:33:23.655 [main] INFO  testCases.TC_001_AccountRegistrationTest - verifying customer registration
+17:33:23.655 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed..
+17:33:23.661 [main] INFO  testCases.TC_001_AccountRegistrationTest - **finished TC_001_AccountRegistrationTest **
+17:33:28.079 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+17:33:29.492 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+17:33:34.277 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:33:35.018 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is valid and Target page is true
+17:33:35.018 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:33:35.455 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:33:35.457 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:33:46.066 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+17:33:46.066 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:33:46.066 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:33:46.066 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:33:56.554 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+17:33:56.554 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:33:56.554 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:33:56.563 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:34:07.128 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is Unsuccessfull - Data is invalid and Target page is false
+17:34:07.128 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:34:07.128 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+17:34:07.128 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Starting TC_003_LoginDataDrivenTest***
+17:34:07.771 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Login is successfull - Data is valid and Target page is true
+17:34:07.771 [main] INFO  testCases.TC_003_LoginDataDrivenTest - TestCase Passed......
+17:34:08.003 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  ***Finished TC_003_LoginDataDrivenTest***
+10:49:15.617 [main] INFO  testCases.TC_001_AccountRegistrationTest - *staring TC_001_AccountRegistrationTest ******
+10:49:15.633 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on myaccount link
+10:49:15.696 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on registration link
+10:49:16.314 [main] INFO  testCases.TC_001_AccountRegistrationTest - Proving customer details
+10:49:16.681 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on continue
+10:49:16.995 [main] INFO  testCases.TC_001_AccountRegistrationTest - verifying customer registration
+10:49:16.996 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed..
+10:49:16.997 [main] INFO  testCases.TC_001_AccountRegistrationTest - **finished TC_001_AccountRegistrationTest **
+10:49:20.763 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+10:49:21.980 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
